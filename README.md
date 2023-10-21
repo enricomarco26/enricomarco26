@@ -1,3 +1,7 @@
+<h1>Hello! 👋, I'm Mark</h1>
+
+An aspiring Dev/Ops Engineer
+
 - 👋 Hi, I’m @enricomarco26
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
