@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hello!👋, Welcome to my Github profile</h2>
-<h4 align="center">My interests are in DevOps, Cloud Engineering and I'm a Linux Enthusiast</h4>
+<h4 align="center">My interests are in Web Development, Software Development and I'm a Linux Enthusiast</h4>
 
 <p align="center"> 🖥️ My portfolio is viewable <a href="https://enricomarco26.io/" target="_blank">here.</a> </p>
 
@@ -11,8 +11,8 @@
 <h3 align="left">About Me:</h3>
 
 - 🌍 I'm based in Perth Australia
-- 🧠 I’m an active learner on ZTM Academy
-- ⚡ My hobbies are running, gym, gardening, drinking green tea
+- 🧠 I’m an active learner, always learning and keeping up to date
+- ⚡ I enjoy running, gym, gardening, and plenty of sunshine
 
     
 <h3 align="left">Languages and Tools:</h3>
