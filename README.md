@@ -1,8 +1,8 @@
 <p align="center" width="100%">
-    <img width="73%" src="https://github.com/enricomarco26/enricomarco26/assets/140724171/24a0a125-63c6-44d8-b921-33c65cdd83d0">
+    <img width="50%" src="https://github.com/user-attachments/assets/3e034cc1-755a-40b5-9d85-8788db550756")
 </p>
 
-<h2 align="center">Hello!👋, Welcome to my Github profile</h2>
+<h2 align="center">Welcome to my Github profile</h2>
 <h4 align="center">My interests are in Web Development, Software Development and I'm a Linux Enthusiast</h4>
 
 <p align="center"> 🖥️ My portfolio is viewable <a href="https://enricomarco26.io/" target="_blank">here.</a> </p>
@@ -17,26 +17,19 @@
     
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="50" style="vertical-align:top; margin:4px">
-
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50" alt="NodeJS" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="50" height="50" alt="Linux" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ba115d60-6c5c-41c7-9ef9-3853ea9e9f79" width="50" height="50" alt="Python" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/64f944e5-7431-4cd5-b485-ef1c61ff9542" width="50" height="50" alt="Linux" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6897bc60-49e1-4960-9c2a-45ddd4d464ea" width="50" height="50" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d335084c-81d2-4111-9207-9f8c9f99c8b4" width="50" height="50" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/582a6f99-4bc0-4839-a1af-fcdff9ae2a33" width="50" height="50" alt="JavaScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/28fed775-e116-46d8-821b-5c7d2a1be241" width="50" height="50" alt="React" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/27b846ff-faf5-4cc2-a855-3f4e633057c4" width="50" height="50" alt="NodeJS" /></a>
 </p>
 
 ### Socials
 <p align="left">
-<a href="https://discord.com/users/xxxxxx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.github.com/xxxxxx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /> </picture> </a>
+<a href="https://discord.com/users/xxxxxx" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7cc53879-d266-4b21-9dad-21301f24b8e5" width="50" height="50" alt="Discord" /></a>
+<a href="https://www.github.com/xxxxxx" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2addc976-58ad-436d-9110-a9419c2f30d7" width="50" height="50" alt="Github" /></a>
 </p>
 
 
