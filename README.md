@@ -29,7 +29,7 @@
 ### Socials
 <p align="left">
 <a href="https://discord.com/users/xxxxxx" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7cc53879-d266-4b21-9dad-21301f24b8e5" width="50" height="50" alt="Discord" /></a>
-<a href="https://www.github.com/xxxxxx" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2addc976-58ad-436d-9110-a9419c2f30d7" width="50" height="50" alt="Github" /></a>
+<a href="https://www.github.com/enricomarco26" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2addc976-58ad-436d-9110-a9419c2f30d7" width="50" height="50" alt="Github" /></a>
 </p>
 
 
